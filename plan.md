@@ -1,10 +1,10 @@
 # Project Plan - Week 4
 
 ## Group Members:
-- Ali
-- Riya
-- Jay
-- Meena
+-Vedant Patel
+-Riya Sharma
+-Aman Verma
+-Fatima Khan
 
 ## GitHub Repository:
 https://github.com/username/network-project-coit20246
